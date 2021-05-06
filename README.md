@@ -1,22 +1,3 @@
-This is source and documentation for the latex thesis package
-at the University of Washington, Seattle, WA, USA. 
+This is my master's thesis, titled "[Covariate-specific Breakpoints in Personalized Evaluation of Left Ventricular Enlargement](https://search.proquest.com/openview/3b55eeb3a63e9a6dfc5fa9fa63c6165d/)" and finished Aug. 2020 under the supervision of Drs. [Robyn L. McClelland](https://www.biostat.washington.edu/people/robyn-mcclelland) and [Kenneth M. Rice](https://www.biostat.washington.edu/people/ken-rice), both professors at the [University of Washington Department of Biostatistics](https://www.biostat.washington.edu/).
 
-The tex file is both a thesis template and the documentation,
-
-| file | content |
-| ----- | -------- |
-| uwthesis.cls	| The class file
-| uwthesis.tex	| Documentation and example thesis
-| uwthesis.bib	| Bibliography for the documentation
-| uwthesis.pdf	| Preformatted uwthesis document
-
-
-All files are distributed under the Apache 2.0 license.
-
-Jim Fox
-
-http://staff.washington.edu/fox/
-fox@uw.edu
-
-
-
+I adopted the [LaTeX template](https://github.com/UWIT-IAM/UWThesis) composed by Jim Fox, a UW Technology employee, for my thesis under the Apache 2.0 license.
